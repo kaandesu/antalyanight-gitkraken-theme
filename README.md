@@ -13,6 +13,6 @@ In addition to the default themes, GitKraken now supports custom user-defined th
 
 # Themes Details
 
-### [Antalya Night - Night](https://github.com/kaandesu/antalyanight-gitkraken-theme/tree/main/Themes/antalaya-night-night.jsonc)
+### [Antalya Night - Night](https://github.com/kaandesu/antalyanight-gitkraken-theme/blob/main/Themes/antalya-night-dark.jsonc)
 
 # ![AntalyaNightTheme](images/printscreen.png)

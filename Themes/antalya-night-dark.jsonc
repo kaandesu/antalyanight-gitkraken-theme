@@ -4,9 +4,7 @@
     "scheme": "dark" // must be "light" or "dark"
   },
   "themeValues": {
-    // values applied to the entire app
     "root": {
-      //Tokyo Night Night colors from https://github.com/remondevries/tokeynight-gitkraken-theme under MIT License
       ".base03": "#1a1c26",
       ".base02": "lighten(@.base03, 3%)",
       ".base01": "lighten(@.base03, 10%)",
